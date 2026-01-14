@@ -10,8 +10,8 @@ This plan outlines the steps to build the "HardCodedLife" AI Resume application,
 - [x] Verify build stability.
 
 ## Phase 2: UI Foundation & Components
-- [ ] **Global Layout:** Configure `src/app/layout.tsx` for consistent font (Inter/Geist) and basic metadata.
-- [ ] **Utility Components:** Create reusable UI components (Button, Card, Input) in `src/components/ui` or use inline Tailwind for speed if simpler.
+- [x] **Global Layout:** Configure `src/app/layout.tsx` for consistent font (Inter/Geist) and basic metadata.
+- [x] **Utility Components:** Create reusable UI components (Button, Card, Input) in `src/components/ui` or use inline Tailwind for speed if simpler.
     - `ChatBubble`: For displaying user and AI messages with distinct styling.
     - `SuggestionChip`: For quick reply options.
     - `ProjectCard`: For displaying highlighted projects on the landing page.
