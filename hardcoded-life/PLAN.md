@@ -23,11 +23,11 @@ This plan outlines the steps to build the "HardCodedLife" AI Resume application,
 - [x] **File:** `src/app/page.tsx`
 
 ## Phase 4: Chat Interface (The "Vibe Check")
-- [ ] **Chat Page Layout:** Create a clean, chat-focused layout in `src/app/chat/page.tsx`.
-- [ ] **State Management:** Manage `messages` (array of role/content), `isLoading`, and `input` state.
-- [ ] **Auto-Scroll:** Ensure the chat window scrolls to the newest message.
-- [ ] **Chips/Quick Actions:** Implement the suggested chips ("你最拿手的 3 件事？", etc.) to trigger API calls.
-- [ ] **API Integration:** Connect the frontend to `/api/chat`. Handle streaming or loading states gracefully.
+- [x] **Chat Page Layout:** Create a clean, chat-focused layout in `src/app/chat/page.tsx`.
+- [x] **State Management:** Manage `messages` (array of role/content), `isLoading`, and `input` state.
+- [x] **Auto-Scroll:** Ensure the chat window scrolls to the newest message.
+- [x] **Chips/Quick Actions:** Implement the suggested chips ("你最拿手的 3 件事？", etc.) to trigger API calls.
+- [x] **API Integration:** Connect the frontend to `/api/chat`. Handle streaming or loading states gracefully.
 
 ## Phase 5: Polish & Deployment
 - [ ] **Styling Refinement:** Ensure responsive design (mobile-friendly). Add subtle animations (e.g., typing indicator).
